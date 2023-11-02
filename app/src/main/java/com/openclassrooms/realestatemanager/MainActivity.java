@@ -1,5 +1,7 @@
 package com.openclassrooms.realestatemanager;
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.widget.TextView;
 
@@ -21,11 +23,13 @@ public class MainActivity extends AppCompatActivity {
         this.configureTextViewQuantity();
     }
 
+    @SuppressLint("SetTextI18n")
     private void configureTextViewMain(){
         this.textViewMain.setTextSize(15);
         this.textViewMain.setText("Le premier bien immobilier enregistré vaut ");
     }
 
+    @SuppressLint("DefaultLocale")
     private void configureTextViewQuantity(){
         int quantity = Utils.convertDollarToEuro(100);
         this.textViewQuantity.setTextSize(20);
