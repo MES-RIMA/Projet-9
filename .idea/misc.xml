@@ -3,8 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/drawable/round_create_white_48dp.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/drawable/round_map_white_48dp.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/drawable/round_search_white_48dp.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout-land/activity_real_estate_manager.xml" value="0.15123456790123457" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout-larg/activity_real_estate_manager.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout-v21/fragment_list_item.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout-xlarg/activity_real_estate_manager.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/activity_add.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/activity_edit.xml" value="0.165625" />
         <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/activity_map.xml" value="0.133984375" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/activity_real_estate_manager.xml" value="0.1796875" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/activity_search.xml" value="0.12421875" />
         <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/activity_second.xml" value="0.1796875" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/fragment_detail.xml" value="0.13504273504273503" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/fragment_list.xml" value="0.13504273504273503" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/layout/fragment_list_item.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/randa/AndroidStudioProjects/RealEstateManager (1)/RealEstateManager/app/src/main/res/menu/activity_main_menu.xml" value="0.17864583333333334" />
       </map>
     </option>
   </component>
