@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.openclassrooms.realestatemanager.R;
+import com.openclassrooms.realestatemanager.createEstate.AddActivity;
 import com.openclassrooms.realestatemanager.databinding.FragmentListBinding;
 import com.openclassrooms.realestatemanager.utils.ItemClickSupport;
 import java.util.ArrayList;
@@ -75,6 +76,7 @@ public class ListFragment extends Fragment {
         View view = fragmentListBinding.getRoot();
 //        this.configureRecyclerView();
 //        this.configureOnClickRecyclerView();
+
         return view;
     }
 
